@@ -8,8 +8,6 @@
 
 * [Functionally](#functionally)
 
-* [Questions](#questions)
-
 ## Demo
 ![](images/Offline.gif) 
 
