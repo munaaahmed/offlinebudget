@@ -1,5 +1,5 @@
 ## Deployed Application Link
-https://munaaahmed.github.io/offlinebudget/
+https://offlinebudget.herokuapp.com/
 
 ## Table of Contents 
 
